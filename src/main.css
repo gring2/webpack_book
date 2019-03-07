@@ -1,0 +1,11 @@
+@import './variable.scss';
+body {
+    background: cornsilk;
+}
+.test{
+    background: white;
+}
+.pure-button {
+    -webkit-border-radius: 1em;
+    border-radius: 1em;
+}
